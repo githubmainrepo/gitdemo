@@ -10,8 +10,4 @@ Initial Security()
  //Sample Code
 }
 
-Intellipaat Security Patch ()
-{
-
-}
 }
